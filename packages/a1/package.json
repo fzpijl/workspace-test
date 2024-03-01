@@ -1,0 +1,10 @@
+{
+  "name": "@irisivew/a1",
+  "version": "1.0.2",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "@irisview/d1": "workspace:^"
+  }
+}

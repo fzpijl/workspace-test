@@ -1,5 +1,5 @@
 {
-  "name": "@irisivew/a1",
+  "name": "@irisview/a1",
   "version": "1.0.3",
   "scripts": {
     "test": "node index.js"
